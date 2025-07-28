@@ -16,4 +16,5 @@ This repository contains the source code and resources for the application.
 - [.NET SDK version X.X or Visual Studio YYYY]
 - [Other dependencies]
 
-![Uploading weng.png…]()
+
+<img width="1225" height="737" alt="weng" src="https://github.com/user-attachments/assets/bb1572ce-88e3-4eb6-ac0a-7649a85746df" />
